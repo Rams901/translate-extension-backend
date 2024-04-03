@@ -1,0 +1,9 @@
+git+https://github.com/openai/whisper.git
+fastapi
+uvicorn
+langchain
+pycld2
+transformers
+sentencepiece
+sacremoses
+firebase-admin
