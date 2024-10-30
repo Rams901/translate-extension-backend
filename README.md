@@ -27,3 +27,8 @@ This FastAPI server is designed to handle orders. Below are the steps to set it 
     ```
 
 Once the server is running, you can access the API endpoints using a web browser or an HTTP client like Postman.
+
+## Swagger Preview
+The current active endpoints are transcribe, translate, upload files and fetch chat history from firebase.
+
+![Swagger Preview](https://github.com/user-attachments/assets/4c2b2728-fdef-47cf-a3a2-a4a441308c08)
