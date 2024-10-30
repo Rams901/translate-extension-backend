@@ -7,3 +7,5 @@ transformers
 sentencepiece
 sacremoses
 firebase-admin
+langid
+python-multipart
